@@ -1,0 +1,9 @@
+pandas
+matplotlib
+Pillow
+scikit-image
+h5py
+keras
+theano
+sklearn
+tensorflow-gpu
